@@ -4,3 +4,6 @@
 [submodule "kinect"]
 	path = kinect
 	url = https://github.com/yudonguk/KinectComp.git
+[submodule "test"]
+	path = develop/remote
+	url = https://github.com/yudonguk/RemoteRobot.git
